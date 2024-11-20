@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: bib2html0e01ba.aux
+The style file: plain.bst
+Database file #1: batcat_bibliography.bib
+Repeated entry---line 92 of file batcat_bibliography.bib
+ : @article{Staubach2024
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 137 of file batcat_bibliography.bib
+ : @article{Machot2024
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in Horsch2021
+Warning--empty journal in Horsch2024
+Warning--empty journal in Machot2023
+Warning--empty journal in Machot2024
+You've used 10 entries,
+            2118 wiz_defined-function locations,
+            569 strings with 6391 characters,
+and the built_in function-call counts, 3356 in all, are:
+= -- 303
+> -- 219
+< -- 1
++ -- 86
+- -- 76
+* -- 263
+:= -- 607
+add.period$ -- 31
+call.type$ -- 10
+change.case$ -- 68
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 108
+empty$ -- 218
+format.name$ -- 76
+if$ -- 658
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 10
+newline$ -- 53
+num.names$ -- 20
+pop$ -- 67
+preamble$ -- 1
+purify$ -- 58
+quote$ -- 0
+skip$ -- 70
+stack$ -- 0
+substring$ -- 134
+swap$ -- 8
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 40
+warning$ -- 4
+while$ -- 25
+width$ -- 12
+write$ -- 105
+(There were 2 error messages)
