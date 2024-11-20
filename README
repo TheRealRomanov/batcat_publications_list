@@ -1,0 +1,12 @@
+# Form new html
+
+../bibtex2html -noabstract -nokeywords -css style.css  batcat_biblipgraphy.bib 
+
+OR
+
+chmod +x create_html.sh
+./create_html.sh
+
+# Link to access
+
+https://therealromanov.github.io/batcat_publications_list/batcat_biblipgraphy.html
