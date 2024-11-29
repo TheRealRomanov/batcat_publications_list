@@ -1,5 +1,5 @@
 #!/usr/bin/bash
 
-../bibtex2html -noabstract -nokeywords -css style.css  batcat_bibliography.bib 
+../bibtex2html -noabstract -nokeywords -d -nokeys -use-table -css style.css  batcat_bibliography.bib 
 
 
